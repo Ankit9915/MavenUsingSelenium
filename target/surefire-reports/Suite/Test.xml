@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="ankit" failures="0" tests="4" name="MavenDemo.RestApiTest" time="0.024" errors="0" timestamp="29 Mar 2023 18:35:23 GMT">
+  <testcase classname="MavenDemo.SeleniumTest" name="browseAutomate" time="0.012"/>
+  <testcase classname="MavenDemo.SeleniumTest" name="elementUi" time="0.0"/>
+  <testcase classname="MavenDemo.RestApiTest" name="getjira" time="0.001"/>
+  <testcase classname="MavenDemo.RestApiTest" name="postjira" time="0.002"/>
+</testsuite>
